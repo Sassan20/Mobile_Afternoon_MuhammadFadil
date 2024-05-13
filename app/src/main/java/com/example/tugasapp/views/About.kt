@@ -53,7 +53,23 @@ fun About(
             maxLines = 1
         )
         Text(
+            text = "mf80177@gmail.com",
+            style = MaterialTheme.typography.titleMedium,
+            overflow = TextOverflow.Ellipsis,
+            textAlign = TextAlign.Center,
+            modifier = Modifier.fillMaxWidth(),
+            maxLines = 1
+        )
+        Text(
             text = "STMIK TRIGUNA DHARMA",
+            style = MaterialTheme.typography.titleMedium,
+            overflow = TextOverflow.Ellipsis,
+            textAlign = TextAlign.Center,
+            modifier = Modifier.fillMaxWidth(),
+            maxLines = 1
+        )
+        Text(
+            text = "Sistem Informasi",
             style = MaterialTheme.typography.titleMedium,
             overflow = TextOverflow.Ellipsis,
             textAlign = TextAlign.Center,
