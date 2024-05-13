@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TugasApp</string>
+    <string name="menu_home">home</string>
+    <string name="gallery">gallery</string>
+    <string name="about">About</string>
+    <string name="home">Home</string>
+    <string name="Gallery">Gallery</string>
+    <string name="Back">Back\n</string>
+</resources>
